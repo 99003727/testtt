@@ -20,3 +20,8 @@
 	  {
 		  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_12,GPIO_PIN_RESET );
 	  }
+
+
+The open On-chip Debugger (open OCD) provides debugging, in system programming and boundary scan testing for embedded target devices. 
+	Programming adapters are used to get access to the debug interface of the target with native protocol signaling such as SWD.
+	STM32F4-DISC1 board has embedded in-circuit programmer and debugger which supports only SWD debug protocol.
